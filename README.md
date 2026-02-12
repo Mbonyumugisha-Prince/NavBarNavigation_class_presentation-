@@ -10,7 +10,7 @@ A Flutter app that demonstrates bottom tab bar navigation.
    ```
 2. Clone this repo and open it:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Mbonyumugisha-Prince/NavBarNavigation_class_presentation-
    cd TabBarNavigation
    ```
 3. Install dependencies:

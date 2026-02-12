@@ -32,13 +32,3 @@ A Flutter app that demonstrates bottom tab bar navigation.
 ## Screenshot
 
 ![App Screenshot](assets/Screenshot%202026-02-12%20at%2015.40.01.png)
-
-## Rubric Checklist
-
-- Public repository
-- README includes:
-  - run steps
-  - attribution notes
-  - screenshot
-- Meaningful commit history
-- Repo link posted before 5:00 PM
